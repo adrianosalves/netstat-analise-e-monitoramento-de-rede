@@ -40,4 +40,5 @@ netstat -aut: Podemos mesclar as flags...
 
 ![image](https://user-images.githubusercontent.com/33209944/210158756-6e4d7cb3-99fa-4111-aeec-a1b10c1f6376.png)
 
+netstat -an: A flag **n** não resolve consulta DNS.
 
